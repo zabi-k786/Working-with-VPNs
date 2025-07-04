@@ -1,10 +1,7 @@
 # 🛡️ Cybersecurity Internship – Task 8
 
 # Working with VPNs
-
-**Internship:** Cybersecurity Internship  
-**Organization:** Elevate Labs  
-**Duration:** June 2021 – July 2022  
+ 
 **Objective:** Gain hands-on experience with VPNs and understand their role in securing internet traffic and protecting privacy.
 
 ---
