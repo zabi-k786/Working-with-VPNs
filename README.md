@@ -69,11 +69,12 @@
 
 ## 📸 VPN Connection Status Screenshots
 
-### Before VPN:
-![Before VPN](screenshots/before_vpn_ip.png)
+### Before Connecting to VPN:
+![Before VPN](https://github.com/zabi-k786/Working-with-VPNs/blob/main/1_before_vpn_ip.png)
 
-### After VPN:
-![After VPN](screenshots/after_vpn_ip.png)
+### After Connecting to VPN:
+![After VPN](https://github.com/zabi-k786/Working-with-VPNs/blob/main/6_After_vpn_ip.png)
+
 
 ---
 
